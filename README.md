@@ -38,12 +38,11 @@ docker run --name my_streamlit_container --network my_postgres_network -p 8501:8
 ```
 This ensures that the Streamlit app can communicate with PostgreSQL.
 
- 
-```
+## Screenshots
 
-![Image](/images/images/Screenshot%202025-04-23%20164611.png)
-![Image](/images/Screenshot%202025-04-23%20164643.png)
-![Image](/images/Screenshot%202025-04-23%20164657.png)
-![Image](/images/Screenshot%202025-04-23%20164725.png)
-![Image](/images/Screenshot%202025-04-23%20164746.png)
-![Image](/images/Screenshot%202025-04-23%20165117.png)
+![Screenshot 1](images/Screenshot%202025-04-23%20164611.png)
+![Screenshot 2](images/Screenshot%202025-04-23%20164643.png)
+![Screenshot 3](images/Screenshot%202025-04-23%20164657.png)
+![Screenshot 4](images/Screenshot%202025-04-23%20164725.png)
+![Screenshot 5](images/Screenshot%202025-04-23%20164746.png)
+![Screenshot 6](images/Screenshot%202025-04-23%20165117.png)
