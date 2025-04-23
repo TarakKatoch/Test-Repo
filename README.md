@@ -41,9 +41,9 @@ This ensures that the Streamlit app can communicate with PostgreSQL.
  
 ```
 
-![Image](./images/Screenshot%202025-04-23%20164611.png)
-![Image](./images/Screenshot%202025-04-23%20164643.png)
-![Image](./images/Screenshot%202025-04-23%20164657.png)
-![Image](./images/Screenshot%202025-04-23%20164725.png)
-![Image](./images/Screenshot%202025-04-23%20164746.png)
-![Image](./images/Screenshot%202025-04-23%20165117.png)
+![Image](/images/images/Screenshot%202025-04-23%20164611.png)
+![Image](/images/Screenshot%202025-04-23%20164643.png)
+![Image](/images/Screenshot%202025-04-23%20164657.png)
+![Image](/images/Screenshot%202025-04-23%20164725.png)
+![Image](/images/Screenshot%202025-04-23%20164746.png)
+![Image](/images/Screenshot%202025-04-23%20165117.png)
